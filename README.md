@@ -14,3 +14,5 @@
   GitHub
   GitLab
   Bitbucket
+
+Виконав: Хітрик Олексій
